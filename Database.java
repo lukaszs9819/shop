@@ -7,9 +7,9 @@ import java.util.LinkedList;
 
 public class Database {
     static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-    static final String DB_URL = "jdbc:mysql://localhost/shop?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
-    static final String USER = "root";
-    static final String PASS = "lukaszS1!";
+    static final String DB_URL = "jdbc:mysql://localhost/shop?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC"; //enter your own path to database
+    static final String USER = "xxxx"; //enter your own database user name
+    static final String PASS = "xxxx"; //enter your own database password
 
     private static final Logger log = Logger.getLogger(Database.class);
 
