@@ -15,4 +15,6 @@ As administrator u have acces to many tools as stock manage, adding new useres a
 In addition project have logging system. 
 Not everytinhg work perfectly, there are few bugs that should be repair.
 
-Project was written by me Lukasz Sobon and Michal Szczepaniak
+Too run this project properly you have to enter correct login info too database in file databse
+
+Project was written by me Lukasz Sobon and Michal Szczepaniak-Krupwski
